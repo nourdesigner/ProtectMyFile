@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Protect My File</string>
+    <string name="menu_options">Options</string>
+    <string name="see_item">Display</string>
+    <string name="signer">Sign</string>
+    <string name="couleurs_pref">Préférences visuelles</string>
+    <string name="title_activity_explorateur">ExplorateurActivity</string>
+    <string name="welcome">welcome</string>
+      <string name="tun">tun</string>
+    <string name="title_activity_exploreur_preference">ExploreurPreference</string>
+    <string name="attempts">Tentatives</string>
+    <string name="Menu">Menu</string>
+</resources>

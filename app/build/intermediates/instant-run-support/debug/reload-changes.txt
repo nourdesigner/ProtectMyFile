@@ -1,0 +1,8 @@
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$menu$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$layout$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$id$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$string$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$xml$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$style$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\sdz\chapitreTrois\PMF\R$drawable$override.class
+CHANGED,C:\Users\ND\AndroidStudioProjects\Explorateur\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

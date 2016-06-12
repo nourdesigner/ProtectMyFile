@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\xml\\preference.xml"
+    }
+]

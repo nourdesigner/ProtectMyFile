@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_dir.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\menu\\context_dir.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_file.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\menu\\context_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_file.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\menu\\context_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_explorateur.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\menu\\activity_explorateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_explorateur.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\menu\\activity_explorateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_dir.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\menu\\context_dir.xml"
+    }
+]

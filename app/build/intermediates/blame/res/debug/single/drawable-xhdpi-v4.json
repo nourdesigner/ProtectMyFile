@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\crypte.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-xhdpi\\crypte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\crypte.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-xhdpi\\crypte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\crypter.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-xhdpi\\crypter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\crypter.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-xhdpi\\crypter.jpg"
+    }
+]

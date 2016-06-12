@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    }
+]

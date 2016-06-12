@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explorateur.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\layout\\activity_explorateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\in.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\layout\\in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explorateur.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\layout\\activity_explorateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\build\\intermediates\\res\\merged\\debug\\layout\\in.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\PMF\\app\\src\\main\\res\\layout\\in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\ND\\AndroidStudioProjects\\Explorateur\\app\\src\\main\\res\\layout\\menu.xml"
+    }
+]
